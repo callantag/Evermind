@@ -1,0 +1,4 @@
+Requires ReactJS environment.
+
+Includes Material-UI SvgIcon component. To install using terminal:
+npm install @material-ui/core
